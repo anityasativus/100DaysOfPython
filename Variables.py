@@ -1,4 +1,26 @@
-x=5
-y="anitya"
-print(x)
-print(y)
+# x=5
+# y="anitya"
+# print(x)
+# print(y)
+
+# x,y,z="o","l", "d"
+# print(x,y,z)
+
+# J="python is assssmeeeeee"
+# print(J)
+
+# x,y = 1,1.5
+# print("x={}, y={}".format(x,y))
+
+# print(f"x={x},y={y}")
+# print(f"x={x}")
+
+# name = "Anitya"
+# age = 22
+# height = 5.9
+
+# print("Name:", name)
+# print("Age:", age)
+# print("Height:", height)
+x=input("Enter a number: ")
+print(type(x) )
