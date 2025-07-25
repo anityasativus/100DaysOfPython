@@ -28,3 +28,6 @@
 # type(x),type(y),type(z)
 
 
+list=[1,2,3,4,5,6,7,8]
+sum_list=sum(list)
+print(sum_list)
