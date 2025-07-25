@@ -22,5 +22,9 @@
 # print("Name:", name)
 # print("Age:", age)
 # print("Height:", height)
-x=input("Enter a number: ")
-print(type(x) )
+# x=input("Enter a number: ")
+# print(type(x) )
+# x,y,z= 1,1.5,"t"
+# type(x),type(y),type(z)
+
+
