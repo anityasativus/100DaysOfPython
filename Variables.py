@@ -34,3 +34,5 @@
 my_list=[1,2,3,4,5,6,7,8]
 sum_list=sum(my_list)
 print(sum_list)
+avg_list=sum(my_list)/len(my_list)
+print(avg_list)
