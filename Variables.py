@@ -28,6 +28,9 @@
 # type(x),type(y),type(z)
 
 
-list=[1,2,3,4,5,6,7,8]
-sum_list1=sum(list)
-print(sum_list1)
+# list=[1,2,3,4,5,6,7,8]
+# sum_list1=sum(list)
+# print(sum_list1)
+my_list=[1,2,3,4,5,6,7,8]
+sum_list=sum(my_list)
+print(sum_list)
