@@ -39,12 +39,12 @@
 # Sample dictionary
 my_dict = {'name': 'Alice', 'age': 25, 'city': 'Dhaka'}
 
-Ask user for a key to check
+
 key = input("Enter the key to check: ")
 
-# Check if the key exists
+
 if key in my_dict:
-#     print(f"The key '{key}' exists in the dictionary.")
-# else:
-#     print(f"The key '{key}' does NOT exist in the dictionary.")
+    print(f"The key '{key}' exists in the dictionary.")
+else:
+    print(f"The key '{key}' does NOT exist in the dictionary.")
 
