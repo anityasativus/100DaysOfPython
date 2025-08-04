@@ -31,8 +31,20 @@
 # list=[1,2,3,4,5,6,7,8]
 # sum_list1=sum(list)
 # print(sum_list1)
-my_list=[1,2,3,4,5,6,7,8]
-sum_list=sum(my_list)
-print(sum_list)
-avg_list=sum(my_list)/len(my_list)
-print(avg_list)
+# my_list=[1,2,3,4,5,6,7,8]
+# sum_list=sum(my_list)
+# print(sum_list)
+# avg_list=sum(my_list)/len(my_list)
+# print(avg_list)\
+# Sample dictionary
+my_dict = {'name': 'Alice', 'age': 25, 'city': 'Dhaka'}
+
+# Ask user for a key to check
+# key = input("Enter the key to check: ")
+
+# # Check if the key exists
+# if key in my_dict:
+#     print(f"The key '{key}' exists in the dictionary.")
+# else:
+#     print(f"The key '{key}' does NOT exist in the dictionary.")
+
