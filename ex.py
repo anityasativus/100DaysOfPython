@@ -71,3 +71,4 @@ inventory.display_inventory()
 
 # inventory.search_book("great")
 # inventory.remove_book("The Great Gatsby", "F. Scott Fitzgerald", 1)
+# inventory.display_inventory()
