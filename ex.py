@@ -54,7 +54,6 @@ class Inventory:
             for book in self.books:
                 print(book)
 
-# # Example usage:
 # inventory = Inventory()
 # inventory.add_book("The Great Gatsby", "F. Scott Fitzgerald", 3)
 # inventory.add_book("To Kill a Mockingbird", "Harper Lee", 2)
